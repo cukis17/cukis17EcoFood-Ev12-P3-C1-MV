@@ -7,6 +7,8 @@ El proyecto fue realizado utilizando Bootstrap v5.0.2, HTML5, CSS3 y buenas prá
 
 - index.html: Página principal del sitio web.
 - login.html: Página de inicio de sesión.
+- registro.html: Página de registro de cuenta.
+- recuperar.html: Página de recuperación de contraseña.
 - assets/: Carpeta con imágenes, íconos y otros recursos.
 - README.md: Este archivo.
 
